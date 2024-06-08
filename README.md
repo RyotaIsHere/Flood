@@ -3,4 +3,4 @@
 
 ＲＵＮ ? 
 
-go run http.go    <url>    <threads> <get/post> <seconds> <header.txt/nil>
+ｇｏ ｒｕｎ ｈｔｔｐ.ｇｏ <ｕｒｌ> <ｔｈｒｅａｄｓ> <ｇｅｔ/ｐｏｓｔ> <ｔｉｍｅ> <ｈｅａｄｅｒ.ｔｘｔ/ｎｉｌ>
